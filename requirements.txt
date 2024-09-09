@@ -1,0 +1,5 @@
+openai --- for my case, il will be another
+langchain
+streamlit
+python-dotenv
+PyPDF
