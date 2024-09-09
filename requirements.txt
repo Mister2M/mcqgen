@@ -1,5 +1,4 @@
-openai --- for my case, il will be another
-langchain
+google-generativeai
 streamlit
 python-dotenv
 PyPDF
